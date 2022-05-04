@@ -25,7 +25,7 @@ This project is desgined to plot the diagram and then make the model to predict 
 -----
 @Zian Li, the UoB email address is sp20866@bristol.ac.uk, student number is 2084511, 
 
-the Github account:lzasgA243693318@outlook.com.
+the Github account: lzasgA243693318@outlook.com.
 
 @Yikai Zhang,the UoB email address is ci20865@bristol.ac.uk, student number is 2084507.
 
