@@ -11,9 +11,11 @@ This programming file aims to plot the image of the S(Susceptible),I(Infective)a
 
 **Install**
 -----
-This programme need to be run in a python programming environment like Spyder.
+This programme need to be run in anaconda programming environment.
 
-If you don't have any programming environment, please click [here](https://www.python.org/downloads/).
+If you don't have this, please click [here](https://www.anaconda.com/) and download it.
+
+Moreover,in order to run this code, please download 'data.csv' from [here](https://www.pastefile.com/9bdxqe).
 
 **Usage**
 -----
